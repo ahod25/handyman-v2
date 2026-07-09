@@ -1,0 +1,17 @@
+{
+  "slug": "handyman-v2",
+  "baseRoot": "C:\\Users\\romeu\\Downloads\\Projetos\\fabrica-de-cursos",
+  "baseVersion": "30187970f6fae7c18f7387f4c6c64c3d0eedb8c8",
+  "numAulas": 17,
+  "criadoEm": "2026-07-08",
+  "app": {
+    "staging": {
+      "url": "",
+      "courseId": null
+    },
+    "prod": {
+      "url": "",
+      "courseId": null
+    }
+  }
+}
