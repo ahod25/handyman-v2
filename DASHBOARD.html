@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Dashboard — handyman-v2</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; margin: 2rem; max-width: 1100px; margin-inline: auto; }
+  h1 { margin-bottom: 0.2rem; }
+  .subtitle { color: #666; margin-top: 0; }
+  .progress-bar { background: #e0e0e0; border-radius: 6px; height: 22px; width: 100%; overflow: hidden; margin: 0.5rem 0 1.5rem; }
+  .progress-fill { background: #2e7d32; height: 100%; color: white; font-size: 0.8rem; display: flex; align-items: center; justify-content: flex-end; padding-right: 6px; box-sizing: border-box; }
+  table.matriz { border-collapse: collapse; margin-bottom: 2rem; }
+  table.matriz th, table.matriz td { border: 1px solid #ccc; padding: 4px 8px; text-align: center; font-size: 0.85rem; }
+  table.matriz .aula-label { text-align: left; font-weight: 600; white-space: nowrap; }
+  td.cell { width: 34px; height: 24px; }
+  td.cell.done { background: #4caf50; }
+  td.cell.current { background: #ffb300; }
+  td.cell.pending { background: #eee; }
+  .aula-detalhe { border: 1px solid #ddd; border-radius: 6px; padding: 0.5rem 1rem; margin-bottom: 0.5rem; }
+  .aula-detalhe summary { cursor: pointer; font-size: 0.95rem; }
+  table.detalhe-tbl { margin-top: 0.5rem; font-size: 0.85rem; }
+  table.detalhe-tbl td:first-child { color: #666; padding-right: 1rem; white-space: nowrap; }
+  table.pend-tbl { border-collapse: collapse; width: 100%; font-size: 0.85rem; }
+  table.pend-tbl th, table.pend-tbl td { border: 1px solid #ccc; padding: 4px 8px; text-align: left; }
+  .muted { color: #999; }
+  footer { margin-top: 2rem; color: #999; font-size: 0.8rem; }
+  section { margin-bottom: 2rem; }
+</style>
+</head>
+<body>
+  <h1>handyman-v2</h1>
+  <p class="subtitle">17 aulas · 0 pendência(s) aberta(s) · custo acumulado US$0.00</p>
+
+  <div class="progress-bar">
+    <div class="progress-fill" style="width:0%">0%</div>
+  </div>
+
+  <section>
+    <h2>Matriz aula × fase</h2>
+    <table class="matriz"><thead><tr><th></th><th>F0</th><th>F1</th><th>F2</th><th>F3</th><th>F4</th><th>F5</th><th>F6</th></tr></thead><tbody><tr><td class="aula-label">aula-00</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-01</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-02</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-03</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-04</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-05</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-06</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-07</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-08</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-09</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-10</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-11</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-12</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-13</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-14</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-15</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr>
+<tr><td class="aula-label">aula-16</td><td class="cell current" title="F0"></td><td class="cell pending" title="F1"></td><td class="cell pending" title="F2"></td><td class="cell pending" title="F3"></td><td class="cell pending" title="F4"></td><td class="cell pending" title="F5"></td><td class="cell pending" title="F6"></td></tr></tbody></table>
+  </section>
+
+  <section>
+    <h2>Detalhe por aula</h2>
+    
+      <details class="aula-detalhe">
+        <summary>aula-00 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-01 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-02 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-03 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-04 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-05 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-06 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-07 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-08 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-09 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-10 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-11 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-12 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-13 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-14 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-15 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+
+      <details class="aula-detalhe">
+        <summary>aula-16 — fase atual: <strong>F0</strong></summary>
+        <table class="detalhe-tbl">
+          <tr><td>Gates carimbados</td><td><span class="muted">nenhum</span></td></tr>
+          <tr><td>Pendências (frontmatter)</td><td><span class="muted">nenhuma</span></td></tr>
+          <tr><td>Mídia (raw/final)</td><td>0/0</td></tr>
+          <tr><td>Build (cards.json)</td><td>○ não gerado</td></tr>
+          <tr><td>Export staging</td><td>○ nunca exportada</td></tr>
+          <tr><td>Export prod</td><td>○ nunca exportada</td></tr>
+          <tr><td>Custo de mídia</td><td><span class="muted">sem custo registrado</span></td></tr>
+        </table>
+      </details>
+  </section>
+
+  <section>
+    <h2>Pendências abertas</h2>
+    <p class="muted">Nenhuma pendência aberta.</p>
+  </section>
+
+  <footer>
+    Gerado em 2026-07-09T07:42:35.179Z — regenerar com <code>fabrica status</code> (nunca editar este arquivo à mão).
+  </footer>
+</body>
+</html>
