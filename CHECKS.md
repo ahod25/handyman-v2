@@ -37,4 +37,5 @@ qualitativo ("tom coerente", "opções plausíveis") fica de fora — é check h
 | ID | Pendência | Aula | Dono | Fase travada | Aberta em | Fechada em |
 |---|---|---|---|---|---|---|
 
+
 Regra: check falhou → pendência aqui → a fase travada NÃO inicia para a aula/lote afetado até fechar (destravar sem fechar exige registro no Log do plano do curso).

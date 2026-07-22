@@ -1,3 +1,588 @@
 {
-  "aulas": {}
+  "aulas": {
+    "aula-00": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:43:35.386Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T02:47:59.834Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:46.726Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:53.614Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:53.804Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:16.784Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-01": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:00.008Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:46.885Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:53.991Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:54.169Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:16.915Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-02": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:00.182Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:47.038Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:54.362Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:54.579Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:17.053Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-03": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:00.352Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:47.201Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:54.893Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:55.191Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:17.187Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-04": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:00.495Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:47.359Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:55.447Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:55.693Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:17.317Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-05": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:00.641Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:47.505Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:55.913Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:20:56.180Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:17.449Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-06": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:00.780Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:47.662Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:25.456Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:25.568Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:17.576Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-07": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:00.940Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:47.821Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:25.677Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:25.788Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:17.697Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-08": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:01.090Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:47.975Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:25.908Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:26.028Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:17.830Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-09": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:01.248Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:48.133Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:26.148Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:26.262Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:17.981Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-10": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:01.399Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:48.293Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:26.380Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:26.493Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:18.107Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-11": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:01.542Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:48.451Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:26.612Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:07:26.724Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:18.231Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-12": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:01.700Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:48.602Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:32.567Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:32.707Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:18.357Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-13": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:01.850Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:48.755Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:32.840Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:32.959Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:18.480Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-14": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:01.991Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:48.907Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:33.086Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:33.216Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:18.609Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-15": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:02.157Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:49.067Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:33.339Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:33.461Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:18.733Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    },
+    "aula-16": {
+      "eventos": [
+        {
+          "ts": "2026-07-22T02:48:02.345Z",
+          "tipo": "gate",
+          "fase": "F1",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T03:15:49.236Z",
+          "tipo": "gate",
+          "fase": "F2",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:33.575Z",
+          "tipo": "gate",
+          "fase": "F3",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:08:33.700Z",
+          "tipo": "gate",
+          "fase": "F4",
+          "resultado": "aprovado"
+        },
+        {
+          "ts": "2026-07-22T04:32:18.855Z",
+          "tipo": "gate",
+          "fase": "F5",
+          "resultado": "aprovado"
+        }
+      ]
+    }
+  }
 }

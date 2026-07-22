@@ -1,0 +1,115 @@
+{
+  "title": "**Teoria:** HVAC residencial na camada permitida de manutenção e triagem: retorno de ar, filtro, MERV, seta de airflow, periodicidade de troca, grelha/return vent, termostato, bateria, breaker/disconnect e fusível. Diagnóstico de falhas comuns em termostatos inteligentes (códigos de erro básicos, alimentação e baterias). A aula mostra como filtro sujo afeta o sistema, mas deixa compressor, refrigerante, furnace, blower, capacitor e ductwork técnico fora do escopo.",
+  "order": 17,
+  "assets": [
+    {
+      "type": "TEXT_CARD",
+      "order": 1,
+      "title_pt": "Introdução Didática",
+      "title_en": "Educational Hook",
+      "title_es": "Introducción Didáctica",
+      "content_pt": "Visão geral e objetivos de aprendizado da aula.",
+      "content_en": "Lesson overview and learning objectives.",
+      "content_es": "Visión general y objetivos de aprendizaje de la lección.",
+      "url": null,
+      "config": null,
+      "isCheckpoint": false,
+      "canFarm": false
+    },
+    {
+      "type": "CONCEPT_ANCHOR",
+      "order": 2,
+      "title_pt": "Modelo Mental e Conceito",
+      "title_en": "Mental Model and Concept",
+      "title_es": "Modelo Mental y Concepto",
+      "content_pt": "Ancoragem do novo conceito em fundamentos conhecidos.",
+      "content_en": "Anchoring new concept on known fundamentals.",
+      "content_es": "Anclaje del nuevo concepto en fundamentos conocidos.",
+      "url": null,
+      "config": {
+        "knownConcept": "Conceito Conhecido",
+        "newConcept": "Conceito Novo"
+      },
+      "isCheckpoint": false,
+      "canFarm": false
+    },
+    {
+      "type": "DECISION_CARD",
+      "order": 3,
+      "title_pt": "Tomada de Decisão Técnica",
+      "title_en": "Technical Decision Making",
+      "title_es": "Toma de Decisión Técnica",
+      "content_pt": "Cenário de escolha e julgamento profissional.",
+      "content_en": "Scenario of choice and professional judgment.",
+      "content_es": "Escenario de elección y juicio profesional.",
+      "url": null,
+      "config": {
+        "scenario": "Escolha a decisão técnica correta.",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Decisão Recomendada",
+            "consequence": "Execução segura e precisa.",
+            "isCorrect": true
+          }
+        ]
+      },
+      "isCheckpoint": false,
+      "canFarm": false
+    },
+    {
+      "type": "LAB_PRACTICE",
+      "order": 4,
+      "title_pt": "Roteiro de Prática no Lab",
+      "title_en": "Lab Practice Guide",
+      "title_es": "Guía de Práctica de Lab",
+      "content_pt": "Execução prática em trio no módulo de bancada.",
+      "content_en": "Hands-on execution in trio on bench module.",
+      "content_es": "Ejecución práctica en trío en el módulo de banco.",
+      "url": null,
+      "config": null,
+      "isCheckpoint": true,
+      "canFarm": true
+    },
+    {
+      "type": "QUIZ",
+      "order": 5,
+      "title_pt": "Teste de Validação de Domínio",
+      "title_en": "Mastery Validation Quiz",
+      "title_es": "Prueba de Validación de Dominio",
+      "content_pt": "Verificação dos pontos críticos ensinados na aula.",
+      "content_en": "Verification of critical points taught in lesson.",
+      "content_es": "Verificación de los puntos críticos enseñados en la lección.",
+      "url": null,
+      "config": null,
+      "isCheckpoint": true,
+      "canFarm": false,
+      "questions": [
+        {
+          "text": "Pergunta de verificação técnica",
+          "options": [
+            "Resposta Correta",
+            "Opção Incorreta A",
+            "Opção Incorreta B"
+          ],
+          "correctIndex": 0,
+          "explanation": "Justificativa embasada no protocolo da aula."
+        }
+      ]
+    },
+    {
+      "type": "FIELD_MISSION",
+      "order": 6,
+      "title_pt": "Missão no Mundo Real",
+      "title_en": "Real World Field Mission",
+      "title_es": "Misión en el Mundo Real",
+      "content_pt": "Aplicação e registro visual na residência do aluno.",
+      "content_en": "Application and visual record at student home.",
+      "content_es": "Aplicación y registro visual en la residencia del estudiante.",
+      "url": null,
+      "config": null,
+      "isCheckpoint": true,
+      "canFarm": true
+    }
+  ]
+}
