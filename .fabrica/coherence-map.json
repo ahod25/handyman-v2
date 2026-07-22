@@ -1,0 +1,3103 @@
+{
+  "geradoEm": "2026-07-22T17:45:30.850Z",
+  "versao": 1,
+  "aulas": {
+    "10": {
+      "aula": "aula-10",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "tomadas",
+          "n": 11
+        },
+        {
+          "termo": "terminais",
+          "n": 9
+        },
+        {
+          "termo": "tomada",
+          "n": 7
+        },
+        {
+          "termo": "polaridade",
+          "n": 6
+        },
+        {
+          "termo": "duplex",
+          "n": 5
+        },
+        {
+          "termo": "energia",
+          "n": 5
+        },
+        {
+          "termo": "neutro",
+          "n": 5
+        },
+        {
+          "termo": "parafuso",
+          "n": 5
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "conectar",
+          "n": 4
+        },
+        {
+          "termo": "correta",
+          "n": 4
+        },
+        {
+          "termo": "fenda",
+          "n": 4
+        },
+        {
+          "termo": "fiação",
+          "n": 4
+        },
+        {
+          "termo": "instalação",
+          "n": 4
+        },
+        {
+          "termo": "latão",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "visual",
+          "n": 4
+        },
+        {
+          "termo": "alinhamento",
+          "n": 3
+        },
+        {
+          "termo": "áreas",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "entre",
+          "n": 3
+        },
+        {
+          "termo": "modelo",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "terminais",
+        "polaridade",
+        "duplex",
+        "neutro",
+        "conectar",
+        "correta",
+        "fenda",
+        "latão",
+        "áreas"
+      ],
+      "conceitos_reforcados": [
+        "tomadas",
+        "tomada",
+        "energia",
+        "parafuso",
+        "conceito",
+        "concept",
+        "fiação",
+        "instalação",
+        "mental",
+        "técnica",
+        "visual",
+        "alinhamento",
+        "decisão",
+        "entre",
+        "modelo"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "tomadas",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 11
+        },
+        {
+          "termo": "tomada",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 7
+        },
+        {
+          "termo": "energia",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "parafuso",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "fiação",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "instalação",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-00",
+        "aula-09",
+        "aula-08",
+        "aula-07",
+        "aula-04"
+      ]
+    },
+    "11": {
+      "aula": "aula-11",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "circuito",
+          "n": 13
+        },
+        {
+          "termo": "multímetro",
+          "n": 12
+        },
+        {
+          "termo": "continuidade",
+          "n": 11
+        },
+        {
+          "termo": "teste",
+          "n": 9
+        },
+        {
+          "termo": "resistência",
+          "n": 7
+        },
+        {
+          "termo": "curto",
+          "n": 5
+        },
+        {
+          "termo": "interruptor",
+          "n": 5
+        },
+        {
+          "termo": "neutral",
+          "n": 5
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "conector",
+          "n": 4
+        },
+        {
+          "termo": "desenergizado",
+          "n": 4
+        },
+        {
+          "termo": "infinita",
+          "n": 4
+        },
+        {
+          "termo": "integridade",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "módulo",
+          "n": 4
+        },
+        {
+          "termo": "switch",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "verificação",
+          "n": 4
+        },
+        {
+          "termo": "antes",
+          "n": 3
+        },
+        {
+          "termo": "correta",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "entre",
+          "n": 3
+        },
+        {
+          "termo": "ground",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "circuito",
+        "multímetro",
+        "continuidade",
+        "resistência",
+        "curto",
+        "neutral",
+        "conector",
+        "desenergizado",
+        "infinita",
+        "integridade",
+        "switch"
+      ],
+      "conceitos_reforcados": [
+        "teste",
+        "interruptor",
+        "conceito",
+        "concept",
+        "mental",
+        "módulo",
+        "técnica",
+        "verificação",
+        "antes",
+        "correta",
+        "decisão",
+        "entre",
+        "ground"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "teste",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 9
+        },
+        {
+          "termo": "interruptor",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-10",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-10",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-10",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "módulo",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-10",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "verificação",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-09",
+        "aula-10",
+        "aula-08"
+      ]
+    },
+    "12": {
+      "aula": "aula-12",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "caixa",
+          "n": 9
+        },
+        {
+          "termo": "segurança",
+          "n": 8
+        },
+        {
+          "termo": "suporte",
+          "n": 8
+        },
+        {
+          "termo": "rated",
+          "n": 7
+        },
+        {
+          "termo": "trava",
+          "n": 7
+        },
+        {
+          "termo": "ventilador",
+          "n": 7
+        },
+        {
+          "termo": "downrod",
+          "n": 5
+        },
+        {
+          "termo": "montagem",
+          "n": 5
+        },
+        {
+          "termo": "motor",
+          "n": 5
+        },
+        {
+          "termo": "ventiladores",
+          "n": 5
+        },
+        {
+          "termo": "bracket",
+          "n": 4
+        },
+        {
+          "termo": "caixas",
+          "n": 4
+        },
+        {
+          "termo": "clevis",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "conexão",
+          "n": 4
+        },
+        {
+          "termo": "cotter",
+          "n": 4
+        },
+        {
+          "termo": "fixação",
+          "n": 4
+        },
+        {
+          "termo": "iluminação",
+          "n": 4
+        },
+        {
+          "termo": "mastro",
+          "n": 4
+        },
+        {
+          "termo": "mecânica",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "orgulho",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        }
+      ],
+      "conceitos_introduzidos": [
+        "rated",
+        "trava",
+        "ventilador",
+        "downrod",
+        "montagem",
+        "motor",
+        "ventiladores",
+        "bracket",
+        "clevis",
+        "cotter",
+        "iluminação",
+        "mastro",
+        "mecânica"
+      ],
+      "conceitos_reforcados": [
+        "caixa",
+        "segurança",
+        "suporte",
+        "caixas",
+        "conceito",
+        "concept",
+        "conexão",
+        "fixação",
+        "mental",
+        "orgulho",
+        "técnica"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "caixa",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 9
+        },
+        {
+          "termo": "segurança",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 8
+        },
+        {
+          "termo": "suporte",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 8
+        },
+        {
+          "termo": "caixas",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-11",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-11",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "conexão",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "fixação",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-09",
+        "aula-02",
+        "aula-08",
+        "aula-11"
+      ]
+    },
+    "13": {
+      "aula": "aula-13",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "silicone",
+          "n": 18
+        },
+        {
+          "termo": "rosca",
+          "n": 8
+        },
+        {
+          "termo": "chuveiro",
+          "n": 7
+        },
+        {
+          "termo": "shower",
+          "n": 7
+        },
+        {
+          "termo": "showerhead",
+          "n": 5
+        },
+        {
+          "termo": "acabamento",
+          "n": 4
+        },
+        {
+          "termo": "antigo",
+          "n": 4
+        },
+        {
+          "termo": "aplicação",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "cordão",
+          "n": 4
+        },
+        {
+          "termo": "horário",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "prova",
+          "n": 4
+        },
+        {
+          "termo": "sentido",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "vedação",
+          "n": 4
+        },
+        {
+          "termo": "álcool",
+          "n": 3
+        },
+        {
+          "termo": "bancada",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "junta",
+          "n": 3
+        },
+        {
+          "termo": "limpeza",
+          "n": 3
+        },
+        {
+          "termo": "modelo",
+          "n": 3
+        },
+        {
+          "termo": "objetivos",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "rosca",
+        "chuveiro",
+        "shower",
+        "showerhead",
+        "antigo",
+        "cordão",
+        "prova",
+        "vedação",
+        "álcool",
+        "limpeza",
+        "objetivos"
+      ],
+      "conceitos_reforcados": [
+        "silicone",
+        "acabamento",
+        "aplicação",
+        "conceito",
+        "concept",
+        "horário",
+        "mental",
+        "sentido",
+        "técnica",
+        "bancada",
+        "decisão",
+        "junta",
+        "modelo"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "silicone",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 18
+        },
+        {
+          "termo": "acabamento",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "aplicação",
+          "apareceuAntesEm": "aula-04",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-12",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-12",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "horário",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-12",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "sentido",
+          "apareceuAntesEm": "aula-09",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-05",
+        "aula-04",
+        "aula-12",
+        "aula-09",
+        "aula-11",
+        "aula-03",
+        "aula-10"
+      ]
+    },
+    "14": {
+      "aula": "aula-14",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "tanque",
+          "n": 10
+        },
+        {
+          "termo": "flange",
+          "n": 9
+        },
+        {
+          "termo": "sanitário",
+          "n": 9
+        },
+        {
+          "termo": "flapper",
+          "n": 8
+        },
+        {
+          "termo": "valve",
+          "n": 8
+        },
+        {
+          "termo": "vedação",
+          "n": 8
+        },
+        {
+          "termo": "bolts",
+          "n": 5
+        },
+        {
+          "termo": "closet",
+          "n": 5
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "esgoto",
+          "n": 4
+        },
+        {
+          "termo": "louça",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "nível",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "anatomia",
+          "n": 3
+        },
+        {
+          "termo": "aperto",
+          "n": 3
+        },
+        {
+          "termo": "assentamento",
+          "n": 3
+        },
+        {
+          "termo": "comuns",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "descarga",
+          "n": 3
+        },
+        {
+          "termo": "entre",
+          "n": 3
+        },
+        {
+          "termo": "flush",
+          "n": 3
+        },
+        {
+          "termo": "internos",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "tanque",
+        "flange",
+        "sanitário",
+        "flapper",
+        "valve",
+        "bolts",
+        "closet",
+        "esgoto",
+        "louça",
+        "aperto",
+        "assentamento",
+        "comuns",
+        "descarga",
+        "flush"
+      ],
+      "conceitos_reforcados": [
+        "vedação",
+        "conceito",
+        "concept",
+        "mental",
+        "nível",
+        "técnica",
+        "anatomia",
+        "decisão",
+        "entre",
+        "internos"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "vedação",
+          "apareceuAntesEm": "aula-13",
+          "ocorrencias": 8
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-13",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-13",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-13",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "nível",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-13",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-13",
+        "aula-08",
+        "aula-09",
+        "aula-11",
+        "aula-05"
+      ]
+    },
+    "15": {
+      "aula": "aula-15",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "massa",
+          "n": 7
+        },
+        {
+          "termo": "putty",
+          "n": 7
+        },
+        {
+          "termo": "plumber",
+          "n": 6
+        },
+        {
+          "termo": "arruelas",
+          "n": 5
+        },
+        {
+          "termo": "lines",
+          "n": 5
+        },
+        {
+          "termo": "sistema",
+          "n": 5
+        },
+        {
+          "termo": "supply",
+          "n": 5
+        },
+        {
+          "termo": "técnica",
+          "n": 5
+        },
+        {
+          "termo": "vedação",
+          "n": 5
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "cônicas",
+          "n": 4
+        },
+        {
+          "termo": "encanador",
+          "n": 4
+        },
+        {
+          "termo": "flexíveis",
+          "n": 4
+        },
+        {
+          "termo": "linhas",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "montagem",
+          "n": 4
+        },
+        {
+          "termo": "porcas",
+          "n": 4
+        },
+        {
+          "termo": "suprimento",
+          "n": 4
+        },
+        {
+          "termo": "tailpiece",
+          "n": 4
+        },
+        {
+          "termo": "tubos",
+          "n": 4
+        },
+        {
+          "termo": "visual",
+          "n": 4
+        },
+        {
+          "termo": "alinhamento",
+          "n": 3
+        },
+        {
+          "termo": "basket",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "putty",
+        "plumber",
+        "arruelas",
+        "lines",
+        "supply",
+        "cônicas",
+        "encanador",
+        "flexíveis",
+        "linhas",
+        "porcas",
+        "suprimento",
+        "tailpiece",
+        "tubos",
+        "basket"
+      ],
+      "conceitos_reforcados": [
+        "massa",
+        "sistema",
+        "técnica",
+        "vedação",
+        "conceito",
+        "concept",
+        "mental",
+        "montagem",
+        "visual",
+        "alinhamento"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "massa",
+          "apareceuAntesEm": "aula-04",
+          "ocorrencias": 7
+        },
+        {
+          "termo": "sistema",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-14",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "vedação",
+          "apareceuAntesEm": "aula-14",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-14",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-14",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-14",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "montagem",
+          "apareceuAntesEm": "aula-12",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-04",
+        "aula-00",
+        "aula-14",
+        "aula-12",
+        "aula-10"
+      ]
+    },
+    "16": {
+      "aula": "aula-16",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "filtro",
+          "n": 13
+        },
+        {
+          "termo": "termostato",
+          "n": 9
+        },
+        {
+          "termo": "airflow",
+          "n": 6
+        },
+        {
+          "termo": "baterias",
+          "n": 6
+        },
+        {
+          "termo": "fluxo",
+          "n": 6
+        },
+        {
+          "termo": "manutenção",
+          "n": 6
+        },
+        {
+          "termo": "visual",
+          "n": 6
+        },
+        {
+          "termo": "retorno",
+          "n": 5
+        },
+        {
+          "termo": "simples",
+          "n": 5
+        },
+        {
+          "termo": "técnica",
+          "n": 5
+        },
+        {
+          "termo": "triagem",
+          "n": 5
+        },
+        {
+          "termo": "classificação",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "digital",
+          "n": 4
+        },
+        {
+          "termo": "direção",
+          "n": 4
+        },
+        {
+          "termo": "filtros",
+          "n": 4
+        },
+        {
+          "termo": "grelha",
+          "n": 4
+        },
+        {
+          "termo": "grelhas",
+          "n": 4
+        },
+        {
+          "termo": "handyman",
+          "n": 4
+        },
+        {
+          "termo": "limpeza",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "preventiva",
+          "n": 4
+        },
+        {
+          "termo": "verificação",
+          "n": 4
+        }
+      ],
+      "conceitos_introduzidos": [
+        "filtro",
+        "termostato",
+        "airflow",
+        "baterias",
+        "fluxo",
+        "manutenção",
+        "retorno",
+        "simples",
+        "triagem",
+        "classificação",
+        "digital",
+        "direção",
+        "filtros",
+        "grelha",
+        "grelhas",
+        "handyman",
+        "preventiva"
+      ],
+      "conceitos_reforcados": [
+        "visual",
+        "técnica",
+        "conceito",
+        "concept",
+        "limpeza",
+        "mental",
+        "verificação"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "visual",
+          "apareceuAntesEm": "aula-15",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-15",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-15",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-15",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "limpeza",
+          "apareceuAntesEm": "aula-13",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-15",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "verificação",
+          "apareceuAntesEm": "aula-11",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-15",
+        "aula-13",
+        "aula-11"
+      ]
+    },
+    "00": {
+      "aula": "aula-00",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "sistema",
+          "n": 6
+        },
+        {
+          "termo": "studs",
+          "n": 6
+        },
+        {
+          "termo": "imperial",
+          "n": 5
+        },
+        {
+          "termo": "missão",
+          "n": 5
+        },
+        {
+          "termo": "parede",
+          "n": 5
+        },
+        {
+          "termo": "americana",
+          "n": 4
+        },
+        {
+          "termo": "anatomia",
+          "n": 4
+        },
+        {
+          "termo": "centro",
+          "n": 4
+        },
+        {
+          "termo": "cliente",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "drywall",
+          "n": 4
+        },
+        {
+          "termo": "ética",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "orgulho",
+          "n": 4
+        },
+        {
+          "termo": "polegadas",
+          "n": 4
+        },
+        {
+          "termo": "profissional",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "teoria",
+          "n": 4
+        },
+        {
+          "termo": "tomada",
+          "n": 4
+        },
+        {
+          "termo": "tomadas",
+          "n": 4
+        },
+        {
+          "termo": "visual",
+          "n": 4
+        },
+        {
+          "termo": "americano",
+          "n": 3
+        },
+        {
+          "termo": "baseboard",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "sistema",
+        "studs",
+        "imperial",
+        "missão",
+        "parede",
+        "americana",
+        "anatomia",
+        "centro",
+        "cliente",
+        "conceito",
+        "concept",
+        "drywall",
+        "ética",
+        "mental",
+        "orgulho",
+        "polegadas",
+        "profissional",
+        "técnica",
+        "teoria",
+        "tomada",
+        "tomadas",
+        "visual",
+        "americano",
+        "baseboard"
+      ],
+      "conceitos_reforcados": [],
+      "repeticoes_suspeitas": [],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": []
+    },
+    "01": {
+      "aula": "aula-01",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "drywall",
+          "n": 16
+        },
+        {
+          "termo": "parafuso",
+          "n": 9
+        },
+        {
+          "termo": "madeira",
+          "n": 8
+        },
+        {
+          "termo": "fixação",
+          "n": 7
+        },
+        {
+          "termo": "frame",
+          "n": 7
+        },
+        {
+          "termo": "parede",
+          "n": 6
+        },
+        {
+          "termo": "dimple",
+          "n": 5
+        },
+        {
+          "termo": "esquadro",
+          "n": 5
+        },
+        {
+          "termo": "gesso",
+          "n": 5
+        },
+        {
+          "termo": "plate",
+          "n": 5
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "módulo",
+          "n": 4
+        },
+        {
+          "termo": "orgulho",
+          "n": 4
+        },
+        {
+          "termo": "segurança",
+          "n": 4
+        },
+        {
+          "termo": "studs",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "bancada",
+          "n": 3
+        },
+        {
+          "termo": "bottom",
+          "n": 3
+        },
+        {
+          "termo": "corte",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "esqueleto",
+          "n": 3
+        },
+        {
+          "termo": "modelo",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "parafuso",
+        "madeira",
+        "fixação",
+        "frame",
+        "dimple",
+        "esquadro",
+        "gesso",
+        "plate",
+        "módulo",
+        "segurança",
+        "bancada",
+        "bottom",
+        "corte",
+        "decisão",
+        "esqueleto",
+        "modelo"
+      ],
+      "conceitos_reforcados": [
+        "drywall",
+        "parede",
+        "conceito",
+        "concept",
+        "mental",
+        "orgulho",
+        "studs",
+        "técnica"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "drywall",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 16
+        },
+        {
+          "termo": "parede",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "orgulho",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "studs",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-00"
+      ]
+    },
+    "02": {
+      "aula": "aula-02",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "ancoragem",
+          "n": 9
+        },
+        {
+          "termo": "drywall",
+          "n": 9
+        },
+        {
+          "termo": "snaptoggle",
+          "n": 7
+        },
+        {
+          "termo": "buchas",
+          "n": 6
+        },
+        {
+          "termo": "madeira",
+          "n": 6
+        },
+        {
+          "termo": "carga",
+          "n": 5
+        },
+        {
+          "termo": "cizalhamento",
+          "n": 5
+        },
+        {
+          "termo": "fixação",
+          "n": 5
+        },
+        {
+          "termo": "força",
+          "n": 5
+        },
+        {
+          "termo": "torque",
+          "n": 5
+        },
+        {
+          "termo": "cargas",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "decisão",
+          "n": 4
+        },
+        {
+          "termo": "direta",
+          "n": 4
+        },
+        {
+          "termo": "finder",
+          "n": 4
+        },
+        {
+          "termo": "gesso",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "módulo",
+          "n": 4
+        },
+        {
+          "termo": "pendurar",
+          "n": 4
+        },
+        {
+          "termo": "studs",
+          "n": 4
+        },
+        {
+          "termo": "suporte",
+          "n": 4
+        },
+        {
+          "termo": "suportes",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        }
+      ],
+      "conceitos_introduzidos": [
+        "ancoragem",
+        "snaptoggle",
+        "buchas",
+        "carga",
+        "cizalhamento",
+        "força",
+        "torque",
+        "cargas",
+        "direta",
+        "finder",
+        "pendurar",
+        "suporte",
+        "suportes"
+      ],
+      "conceitos_reforcados": [
+        "drywall",
+        "madeira",
+        "fixação",
+        "conceito",
+        "concept",
+        "decisão",
+        "gesso",
+        "mental",
+        "módulo",
+        "studs",
+        "técnica"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "drywall",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 9
+        },
+        {
+          "termo": "madeira",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "fixação",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "decisão",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "gesso",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-01"
+      ]
+    },
+    "03": {
+      "aula": "aula-03",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "massa",
+          "n": 13
+        },
+        {
+          "termo": "drywall",
+          "n": 11
+        },
+        {
+          "termo": "feathering",
+          "n": 9
+        },
+        {
+          "termo": "lixamento",
+          "n": 8
+        },
+        {
+          "termo": "técnica",
+          "n": 8
+        },
+        {
+          "termo": "aplicação",
+          "n": 7
+        },
+        {
+          "termo": "patch",
+          "n": 7
+        },
+        {
+          "termo": "reparo",
+          "n": 7
+        },
+        {
+          "termo": "gesso",
+          "n": 6
+        },
+        {
+          "termo": "visual",
+          "n": 6
+        },
+        {
+          "termo": "backing",
+          "n": 5
+        },
+        {
+          "termo": "madeira",
+          "n": 5
+        },
+        {
+          "termo": "spackle",
+          "n": 5
+        },
+        {
+          "termo": "camada",
+          "n": 4
+        },
+        {
+          "termo": "camadas",
+          "n": 4
+        },
+        {
+          "termo": "compound",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "finas",
+          "n": 4
+        },
+        {
+          "termo": "furos",
+          "n": 4
+        },
+        {
+          "termo": "joint",
+          "n": 4
+        },
+        {
+          "termo": "junta",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "aplicar",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "massa",
+        "feathering",
+        "lixamento",
+        "aplicação",
+        "patch",
+        "reparo",
+        "backing",
+        "spackle",
+        "camada",
+        "camadas",
+        "compound",
+        "finas",
+        "furos",
+        "joint",
+        "junta",
+        "aplicar"
+      ],
+      "conceitos_reforcados": [
+        "drywall",
+        "técnica",
+        "gesso",
+        "visual",
+        "madeira",
+        "conceito",
+        "concept",
+        "mental"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "drywall",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 11
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 8
+        },
+        {
+          "termo": "gesso",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "visual",
+          "apareceuAntesEm": "aula-00",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "madeira",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-02",
+        "aula-00"
+      ]
+    },
+    "04": {
+      "aula": "aula-04",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "textura",
+          "n": 12
+        },
+        {
+          "termo": "primer",
+          "n": 11
+        },
+        {
+          "termo": "tinta",
+          "n": 11
+        },
+        {
+          "termo": "parede",
+          "n": 8
+        },
+        {
+          "termo": "reparo",
+          "n": 7
+        },
+        {
+          "termo": "visual",
+          "n": 7
+        },
+        {
+          "termo": "orange",
+          "n": 6
+        },
+        {
+          "termo": "acabamento",
+          "n": 5
+        },
+        {
+          "termo": "aplicar",
+          "n": 5
+        },
+        {
+          "termo": "massa",
+          "n": 5
+        },
+        {
+          "termo": "pincel",
+          "n": 5
+        },
+        {
+          "termo": "pintura",
+          "n": 5
+        },
+        {
+          "termo": "técnica",
+          "n": 5
+        },
+        {
+          "termo": "aplicação",
+          "n": 4
+        },
+        {
+          "termo": "blending",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "flashing",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "secagem",
+          "n": 4
+        },
+        {
+          "termo": "spray",
+          "n": 4
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "entre",
+          "n": 3
+        },
+        {
+          "termo": "gesso",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "textura",
+        "primer",
+        "tinta",
+        "orange",
+        "acabamento",
+        "pincel",
+        "pintura",
+        "blending",
+        "flashing",
+        "secagem",
+        "spray",
+        "entre"
+      ],
+      "conceitos_reforcados": [
+        "parede",
+        "reparo",
+        "visual",
+        "aplicar",
+        "massa",
+        "técnica",
+        "aplicação",
+        "conceito",
+        "concept",
+        "mental",
+        "decisão",
+        "gesso"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "parede",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 8
+        },
+        {
+          "termo": "reparo",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 7
+        },
+        {
+          "termo": "visual",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 7
+        },
+        {
+          "termo": "aplicar",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "massa",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "aplicação",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-01",
+        "aula-03",
+        "aula-02"
+      ]
+    },
+    "05": {
+      "aula": "aula-05",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "miter",
+          "n": 10
+        },
+        {
+          "termo": "rodapé",
+          "n": 9
+        },
+        {
+          "termo": "acabamento",
+          "n": 8
+        },
+        {
+          "termo": "caulk",
+          "n": 7
+        },
+        {
+          "termo": "corte",
+          "n": 7
+        },
+        {
+          "termo": "cortes",
+          "n": 7
+        },
+        {
+          "termo": "fixação",
+          "n": 6
+        },
+        {
+          "termo": "madeira",
+          "n": 6
+        },
+        {
+          "termo": "pinador",
+          "n": 6
+        },
+        {
+          "termo": "pneumático",
+          "n": 6
+        },
+        {
+          "termo": "técnica",
+          "n": 6
+        },
+        {
+          "termo": "acrílico",
+          "n": 5
+        },
+        {
+          "termo": "cantos",
+          "n": 5
+        },
+        {
+          "termo": "conceito",
+          "n": 5
+        },
+        {
+          "termo": "filler",
+          "n": 5
+        },
+        {
+          "termo": "parede",
+          "n": 5
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "internos",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "módulo",
+          "n": 4
+        },
+        {
+          "termo": "orgulho",
+          "n": 4
+        },
+        {
+          "termo": "pintável",
+          "n": 4
+        },
+        {
+          "termo": "silicone",
+          "n": 4
+        },
+        {
+          "termo": "baseboard",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "miter",
+        "rodapé",
+        "caulk",
+        "cortes",
+        "pinador",
+        "pneumático",
+        "acrílico",
+        "cantos",
+        "filler",
+        "internos",
+        "pintável",
+        "silicone"
+      ],
+      "conceitos_reforcados": [
+        "acabamento",
+        "corte",
+        "fixação",
+        "madeira",
+        "técnica",
+        "conceito",
+        "parede",
+        "concept",
+        "mental",
+        "módulo",
+        "orgulho",
+        "baseboard"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "acabamento",
+          "apareceuAntesEm": "aula-04",
+          "ocorrencias": 8
+        },
+        {
+          "termo": "corte",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 7
+        },
+        {
+          "termo": "fixação",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "madeira",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-04",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-04",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "parede",
+          "apareceuAntesEm": "aula-04",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-04",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-04",
+        "aula-01",
+        "aula-02",
+        "aula-03",
+        "aula-00"
+      ]
+    },
+    "06": {
+      "aula": "aula-06",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "strike",
+          "n": 11
+        },
+        {
+          "termo": "plate",
+          "n": 9
+        },
+        {
+          "termo": "porta",
+          "n": 8
+        },
+        {
+          "termo": "latch",
+          "n": 7
+        },
+        {
+          "termo": "deadbolt",
+          "n": 6
+        },
+        {
+          "termo": "fechadura",
+          "n": 6
+        },
+        {
+          "termo": "backset",
+          "n": 5
+        },
+        {
+          "termo": "dobradiça",
+          "n": 5
+        },
+        {
+          "termo": "portas",
+          "n": 5
+        },
+        {
+          "termo": "ajuste",
+          "n": 4
+        },
+        {
+          "termo": "bancada",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "fechaduras",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "parafusos",
+          "n": 4
+        },
+        {
+          "termo": "segurança",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "alinhamento",
+          "n": 3
+        },
+        {
+          "termo": "anatomia",
+          "n": 3
+        },
+        {
+          "termo": "chave",
+          "n": 3
+        },
+        {
+          "termo": "cliente",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "mecânico",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "strike",
+        "porta",
+        "latch",
+        "deadbolt",
+        "fechadura",
+        "backset",
+        "dobradiça",
+        "portas",
+        "ajuste",
+        "fechaduras",
+        "parafusos",
+        "alinhamento",
+        "chave",
+        "mecânico"
+      ],
+      "conceitos_reforcados": [
+        "plate",
+        "bancada",
+        "conceito",
+        "concept",
+        "mental",
+        "segurança",
+        "técnica",
+        "anatomia",
+        "cliente",
+        "decisão"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "plate",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 9
+        },
+        {
+          "termo": "bancada",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "segurança",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-01",
+        "aula-05",
+        "aula-00",
+        "aula-04"
+      ]
+    },
+    "07": {
+      "aula": "aula-07",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "puxadores",
+          "n": 7
+        },
+        {
+          "termo": "gabarito",
+          "n": 5
+        },
+        {
+          "termo": "porta",
+          "n": 5
+        },
+        {
+          "termo": "portas",
+          "n": 5
+        },
+        {
+          "termo": "técnica",
+          "n": 5
+        },
+        {
+          "termo": "ajuste",
+          "n": 4
+        },
+        {
+          "termo": "cavilha",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "dobradiça",
+          "n": 4
+        },
+        {
+          "termo": "eixos",
+          "n": 4
+        },
+        {
+          "termo": "espanado",
+          "n": 4
+        },
+        {
+          "termo": "furação",
+          "n": 4
+        },
+        {
+          "termo": "madeira",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "visual",
+          "n": 4
+        },
+        {
+          "termo": "ajusta",
+          "n": 3
+        },
+        {
+          "termo": "alinhamento",
+          "n": 3
+        },
+        {
+          "termo": "altura",
+          "n": 3
+        },
+        {
+          "termo": "armário",
+          "n": 3
+        },
+        {
+          "termo": "armários",
+          "n": 3
+        },
+        {
+          "termo": "bancada",
+          "n": 3
+        },
+        {
+          "termo": "cozinha",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "puxadores",
+        "gabarito",
+        "cavilha",
+        "eixos",
+        "espanado",
+        "furação",
+        "ajusta",
+        "altura",
+        "armário",
+        "armários",
+        "cozinha"
+      ],
+      "conceitos_reforcados": [
+        "porta",
+        "portas",
+        "técnica",
+        "ajuste",
+        "conceito",
+        "concept",
+        "dobradiça",
+        "madeira",
+        "mental",
+        "visual",
+        "alinhamento",
+        "bancada",
+        "decisão"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "porta",
+          "apareceuAntesEm": "aula-06",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "portas",
+          "apareceuAntesEm": "aula-06",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-06",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "ajuste",
+          "apareceuAntesEm": "aula-06",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-06",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-06",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "dobradiça",
+          "apareceuAntesEm": "aula-06",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "madeira",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-06",
+        "aula-05",
+        "aula-04"
+      ]
+    },
+    "08": {
+      "aula": "aula-08",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "caixa",
+          "n": 19
+        },
+        {
+          "termo": "corte",
+          "n": 11
+        },
+        {
+          "termo": "drywall",
+          "n": 10
+        },
+        {
+          "termo": "fiação",
+          "n": 6
+        },
+        {
+          "termo": "parede",
+          "n": 6
+        },
+        {
+          "termo": "antes",
+          "n": 5
+        },
+        {
+          "termo": "scanner",
+          "n": 5
+        },
+        {
+          "termo": "varredura",
+          "n": 5
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "cortar",
+          "n": 4
+        },
+        {
+          "termo": "fixação",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "nível",
+          "n": 4
+        },
+        {
+          "termo": "studs",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "travamento",
+          "n": 4
+        },
+        {
+          "termo": "bolso",
+          "n": 3
+        },
+        {
+          "termo": "caixas",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "gabarito",
+          "n": 3
+        },
+        {
+          "termo": "instalação",
+          "n": 3
+        },
+        {
+          "termo": "modelo",
+          "n": 3
+        },
+        {
+          "termo": "módulo",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "caixa",
+        "fiação",
+        "antes",
+        "scanner",
+        "varredura",
+        "cortar",
+        "nível",
+        "travamento",
+        "bolso",
+        "caixas",
+        "instalação"
+      ],
+      "conceitos_reforcados": [
+        "corte",
+        "drywall",
+        "parede",
+        "conceito",
+        "concept",
+        "fixação",
+        "mental",
+        "studs",
+        "técnica",
+        "decisão",
+        "gabarito",
+        "modelo",
+        "módulo"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "corte",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 11
+        },
+        {
+          "termo": "drywall",
+          "apareceuAntesEm": "aula-03",
+          "ocorrencias": 10
+        },
+        {
+          "termo": "parede",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 6
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-07",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-07",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "fixação",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-07",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "studs",
+          "apareceuAntesEm": "aula-02",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-05",
+        "aula-03",
+        "aula-07",
+        "aula-02",
+        "aula-01"
+      ]
+    },
+    "09": {
+      "aula": "aula-09",
+      "faseAtual": "F6",
+      "objetivos": [
+        "O1",
+        "O2",
+        "O3"
+      ],
+      "referencias_usadas": [],
+      "conceitos": [
+        {
+          "termo": "protocolo",
+          "n": 10
+        },
+        {
+          "termo": "teste",
+          "n": 8
+        },
+        {
+          "termo": "horário",
+          "n": 6
+        },
+        {
+          "termo": "energia",
+          "n": 5
+        },
+        {
+          "termo": "parafuso",
+          "n": 5
+        },
+        {
+          "termo": "sentido",
+          "n": 5
+        },
+        {
+          "termo": "bancada",
+          "n": 4
+        },
+        {
+          "termo": "conceito",
+          "n": 4
+        },
+        {
+          "termo": "concept",
+          "n": 4
+        },
+        {
+          "termo": "conexão",
+          "n": 4
+        },
+        {
+          "termo": "ground",
+          "n": 4
+        },
+        {
+          "termo": "interruptor",
+          "n": 4
+        },
+        {
+          "termo": "mental",
+          "n": 4
+        },
+        {
+          "termo": "orgulho",
+          "n": 4
+        },
+        {
+          "termo": "segurança",
+          "n": 4
+        },
+        {
+          "termo": "single",
+          "n": 4
+        },
+        {
+          "termo": "técnica",
+          "n": 4
+        },
+        {
+          "termo": "trabalhar",
+          "n": 4
+        },
+        {
+          "termo": "verificação",
+          "n": 4
+        },
+        {
+          "termo": "anatomia",
+          "n": 3
+        },
+        {
+          "termo": "caixa",
+          "n": 3
+        },
+        {
+          "termo": "decisão",
+          "n": 3
+        },
+        {
+          "termo": "fonte",
+          "n": 3
+        },
+        {
+          "termo": "interruptores",
+          "n": 3
+        }
+      ],
+      "conceitos_introduzidos": [
+        "protocolo",
+        "teste",
+        "horário",
+        "energia",
+        "sentido",
+        "conexão",
+        "ground",
+        "interruptor",
+        "single",
+        "trabalhar",
+        "verificação",
+        "fonte",
+        "interruptores"
+      ],
+      "conceitos_reforcados": [
+        "parafuso",
+        "bancada",
+        "conceito",
+        "concept",
+        "mental",
+        "orgulho",
+        "segurança",
+        "técnica",
+        "anatomia",
+        "caixa",
+        "decisão"
+      ],
+      "repeticoes_suspeitas": [
+        {
+          "termo": "parafuso",
+          "apareceuAntesEm": "aula-01",
+          "ocorrencias": 5
+        },
+        {
+          "termo": "bancada",
+          "apareceuAntesEm": "aula-07",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "conceito",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "concept",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "mental",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "orgulho",
+          "apareceuAntesEm": "aula-05",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "segurança",
+          "apareceuAntesEm": "aula-06",
+          "ocorrencias": 4
+        },
+        {
+          "termo": "técnica",
+          "apareceuAntesEm": "aula-08",
+          "ocorrencias": 4
+        }
+      ],
+      "contradicoes": [],
+      "dependencias": [],
+      "aulas_relacionadas": [
+        "aula-01",
+        "aula-07",
+        "aula-08",
+        "aula-05",
+        "aula-06"
+      ]
+    }
+  },
+  "resumo": {
+    "aulas": 17,
+    "referenciasUsadas": 0,
+    "repeticoesSuspeitas": 124
+  }
+}
